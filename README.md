@@ -1,4 +1,5 @@
 # POV-Display
 A persistence of vision display using Arduino
 Refer the link for Visual demonstration of the POV-Display I made
-https://drive.google.com/file/d/1NLpc6Dgyr5b_alGTpHbmn4wYJ8U5JurG/view?usp=sharing
+
+<img align="left" src="https://github.com/adi-code22/POV-Display/blob/main/ezgif.com-gif-maker%20(1).gif?raw=true" />
